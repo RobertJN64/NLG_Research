@@ -49,3 +49,15 @@ All text samples used in the research are included on this page.
 
 `The Curiosity rover landed successfully in Mars last Friday and after it went through various tests and checks, the scientists have started its main task in order to dig for evidence of past Martian life. The project is called ChemCam, and the mission is to measure the composition of the rocks below the surface.
 `
+
+`In June, Paraguay became the first country in the Americas in nearly 50 years to be declared free of malaria. The World Health Organization (WHO) only grants malaria-free certification when a country records zero cases transmitted within its borders for three consecutive years. WHO supported Paraguay’s efforts by helping to fund robust case management, community engagement, and training of front-line health workers. According to WHO’s Elimination 2020 initiative, 10 other countries are on track to be malaria-free in the next two years.
+`
+
+`In 2016, WHO identified Paraguay as one of 21 countries with the potential to eliminate malaria by 2020. Through the "E-2020 initiative," WHO is supporting these countries as they scale up activities to become malaria-free. Other E-2020 countries in the Americas include Belize, Costa Rica, Ecuador, El Salvador, Mexico and Suriname.
+`
+
+`Paraguay has become the first country in the Americas to be declared malaria-free by the World Health Organization. The government of Paraguay and its health partners have worked hard to eliminate the mosquito-borne disease from the South American nation, which is home to more than seven million people. The effort to eradicate malaria in Paraguay began in the 1950s, but really took off in the early 2000s with the introduction of new drugs and improved insecticide treatments.
+`
+
+`In 2016, WHO identified Paraguay as one of 21 countries with the potential to eliminate malaria by the end of 2019, a goal set by the WHO Global Health Sector Strategy on Improving Health Outcomes for Women, Children, and Adolescents (the global target for elimination of malaria in this age group). These countries were invited to join a process aimed at coordinating the steps needed to take malaria prevention efforts.
+`

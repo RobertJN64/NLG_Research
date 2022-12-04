@@ -10,7 +10,7 @@ Topic for #1: Hurricane Michael
 Topic for #2: France World Cup Win
 Topic for #3: Soccer Team trapped in cave
 Topic for #4: Curiosity Rover
-Topic for #5:
+Topic for #5: Paraguay Declared Marlia-free
 
 [code] could be ha, hb, mc, or mo
 ha = Human Sample A
