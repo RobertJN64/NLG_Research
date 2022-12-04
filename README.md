@@ -37,3 +37,15 @@ All text samples used in the research are included on this page.
 
 `A boys soccer team got trapped in a cave in Thailand. The players stayed in the cave for 16 days during the rescue mission. The parents of boys from a soccer team are suing the government for negligence. After they were rescued, the boys were taken to a facility where they were required to get vaccines.
 `
+
+`Over the past 10 years, Curiosity has driven nearly 18 miles (29 kilometers) and ascended 2,050 feet (625 meters) as it explores Gale Crater and the foothills of Mount Sharp within it. The Mars rover has analyzed 41 rock and soil samples, relying on a suite of science instruments to learn what they reveal about Earth’s rocky sibling. It’s success has pushed a team of engineers to devise ways to minimize wear and tear and keep the rover rolling. In fact, Curiosity’s mission was recently extended for another three years, allowing it to continue among NASA’s fleet of important astrobiological missions.
+`
+
+`NASA's Curiosity rover is currently roaming Mars' landscape looking for signs of life and learning about the Red Planet's unique environment. As of Aug. 2, 2022, the rover has traveled 17.64 miles (28.39 kilometers).  Curiosity was launched aboard an Atlas V rocket from Cape Canaveral Air Force Station, Florida on Nov. 26, 2011, and landed on Aug. 5, 2012 after taking eight months and 10 days to reach the Red Planet.
+`
+
+`The Curiosity rover, also known as the Mars Science Laboratory (MSL), is a robotic exploration vehicle designed to explore the surface of the planet Mars. It was launched on November 26, 2011 and landed on the planet’s surface on August 6, 2012. It is the first mission to actively explore the Martian surface and is managed by NASA’s Jet Propulsion Laboratory. Curiosity is fitted with a range of sensors and scientific instruments, including a rock-vaporizing laser and an X-ray spectrometer. Its main objective is to explore the surface of Mars and assess its potential for hosting microbial life. It is also equipped with a camera to take pictures of the planet's surface and a robotic arm for collecting samples for further study.
+`
+
+`The Curiosity rover landed successfully in Mars last Friday and after it went through various tests and checks, the scientists have started its main task in order to dig for evidence of past Martian life. The project is called ChemCam, and the mission is to measure the composition of the rocks below the surface.
+`

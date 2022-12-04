@@ -6,10 +6,10 @@ Line 3 is source url / exact AI model version and prompt
 
 [#] could be 1, 2, 3, 4, or 5
 
-Topic for #1:
-Topic for #2:
-Topic for #3:
-Topic for #4:
+Topic for #1: Hurricane Michael
+Topic for #2: France World Cup Win
+Topic for #3: Soccer Team trapped in cave
+Topic for #4: Curiosity Rover
 Topic for #5:
 
 [code] could be ha, hb, mc, or mo

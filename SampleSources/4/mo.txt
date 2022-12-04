@@ -1,0 +1,3 @@
+The Curiosity rover landed successfully in Mars last Friday and after it went through various tests and checks, the scientists have started its main task in order to dig for evidence of past Martian life. The project is called ChemCam, and the mission is to measure the composition of the rocks below the surface.
+
+GPT-J-6B - "The Curiosity rover"
