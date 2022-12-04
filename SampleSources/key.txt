@@ -1,0 +1,19 @@
+Filename: [#]/[code].txt
+
+File: Line 1 is text
+Line 2 is blank
+Line 3 is source url / exact AI model version and prompt
+
+[#] could be 1, 2, 3, 4, or 5
+
+Topic for #1:
+Topic for #2:
+Topic for #3:
+Topic for #4:
+Topic for #5:
+
+[code] could be ha, hb, mc, or mo
+ha = Human Sample A
+hb = Human Sample B
+mc = Commercial Model Sample
+mo = OpenSource Model Sample
