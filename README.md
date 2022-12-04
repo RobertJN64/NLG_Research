@@ -11,6 +11,9 @@ All text samples used in the research are included on this page.
 `Hurricane Michael was one of the mos devastating hurricanes to ever hit the United States. It first made landfall on October 10, 2018 near Mexico Beach, Florida as a Category 4 hurricane with sustained winds of 155 mph. The storm cause catastrophic damage across the Florida Panhandle and Georgia, with the worst of the damage occurring in the coastal areas of Gulf and Bay counties in Florida. The storm destroyed homes, businesses, and infrastructure in the affected areas and caused at least 69 deaths. The economic cost of the storm is estimated to be around $25 billion, making it one of the most expensive storms in US history.
 `
 
+`Hurricane Michael, a Category 5 storm, left at least 40 people dead and left tens of thousands without homes and businesses in the Florida Panhandle. As we near this year’s hurricane season, a new kind of storm has emerged. We estimate the cost of Hurricane Michael’s cost at approximately $50 million. Hurricane Michael is the second strongest hurricane in the Atlantic to make landfall over Florida in the last seven months.
+`
+
 `France captured its second World Cup title after defeating Croatia 4-2 in the 2018 final at Luzhniki Stadium in Moscow. Despite Croatia outplaying France in the first half, an own goal gave France the advantage early on. Mario Mandžukić had headed the ball into the goal, making it the first own goal in a World Cup final.  Croatia came back immediately to tie the score at 1-1. France answered on a penalty kick following an unfortunate handball by Ivan Perišić before halftime. This call was criticized by many and the video assistant referee was used for the first time in a World Cup.
 `
 
@@ -20,6 +23,9 @@ All text samples used in the research are included on this page.
 `The 2018 FIFA World Cup was one of the most exciting and unpredictable tournaments in recent memory. After weeks of thrilling matches and nail-biting finishes, France emerged victorious as the 2018 FIFA World Cup Champions. Led by their star-studded roster of players, France displayed poise and skill throughout the tournament and was able to outlast the competition to secure their second World Cup title. Through a combination of strong team play, outstanding individual performances, and a bit of luck, France was able to overcome the odds and triumph in Russia and become the 2018 FIFA World Cup Champions.
 `
 
+`France captured its second World Cup title after defeating Croatia. It is the fourth title for the French team, after victories in 1998 and 2002. The match ended 1-1 in regular time. The match remained at 1-1 in the Extra Time through the first five minutes. Then, after the halftime break, France took the lead for the first time.
+`
+
 `In summer 2018, a 12-boy soccer team (the Wild Boars) and their coach were celebrating a teammate's birthday when they made a routine trip into the Tham Luang cave in the Chiang Rai province of Thailand. Shortly after they entered, however, heavy rains that showered the region for the past few days flooded the cave and trapped them all inside. After a week without contact, British divers found the group in early July. An international crew of rescuers resolved to rescue the boys before the next monsoon just days away. During those few days, the world watched as all 13 were pulled to safety from the cave and immediately rushed to the hospital.
 `
 
@@ -27,4 +33,7 @@ All text samples used in the research are included on this page.
 `
 
 `On June 23rd, a group of 12 boys and their soccer coach were trapped in a cave in Thailand, setting off an international rescue mission that captivated the world. The group, ages 11 to 16, had gone exploring the Tham Luang cave complex in northern Thailand after a soccer match. But they were blocked by rising flood waters after heavy rains. The boys and their coach had been stuck in the cave for nine days before they were found. Rescue workers scrambled to find a way to get the boys out safely, with a complex network of pumps, ropes, and divers all working together. The flooding waters had made the cave increasingly hazardous and the boys were given diving lessons to prepare them for the treacherous journey ahead.
+`
+
+`A boys soccer team got trapped in a cave in Thailand. The players stayed in the cave for 16 days during the rescue mission. The parents of boys from a soccer team are suing the government for negligence. After they were rescued, the boys were taken to a facility where they were required to get vaccines.
 `
