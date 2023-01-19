@@ -35,3 +35,4 @@ print(" ".join(email_list))
 if input("Add to sel? y/n ") == 'y':
     with open("sel.txt", 'a') as f:
         f.write("\n".join(email_list))
+        f.write("\n")
