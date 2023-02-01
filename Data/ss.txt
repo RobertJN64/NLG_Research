@@ -1,11 +1,15 @@
 Form	Form Type	Q1	Q2	Q3	Q4	Q5
-F3	HA vs HB	1	1	1	1	1
-G7	MC vs HA	1	1	1	1	1
+F3	HA vs HB	2	2	2	2	1
+F3	HA vs HB	1	2	1	1	2
+F3	HA vs HB	1	-1	1	-1	2
+G7	MC vs HA	1	1	1	1	2
 G7	MC vs HA	2	2	2	2	2
-H1	MO vs HA	1	1	1	1	1
-H1	MO vs HA	2	2	2	2	2
-J2	MC vs HB	1	1	1	1	1
-J2	MC vs HB	2	2	2	2	2
-K5	MO vs HB	1	1	1	1	1
-K5	MO vs HB	2	2	2	2	2
-K5	MO vs HB	1	1	1	1	1
+G7	MC vs HA	1	-1	2	-1	1
+H1	MO vs HA	1	2	1	1	2
+H1	MO vs HA	2	1	1	1	1
+H1	MO vs HA	1	-1	1	-1	2
+J2	MC vs HB	1	2	1	2	2
+J2	MC vs HB	1	1	2	1	1
+J2	MC vs HB	1	-1	2	-1	1
+K5	MO vs HB	1	-1	2	-1	2
+K5	MO vs HB	2	-1	2	-1	1

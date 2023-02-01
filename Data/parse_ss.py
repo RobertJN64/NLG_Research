@@ -14,7 +14,9 @@ for line in lines[1:]:
         continue
     data = key_data[line[0]]
     for index, (a, b) in enumerate(zip(data, line[2:])):
-        if str(a) == str(b):
+        if str(b) == '-1':
+            print('-1', end='')
+        elif str(a) == str(b):
             print('1', end='')
         else:
             print('0', end='')
