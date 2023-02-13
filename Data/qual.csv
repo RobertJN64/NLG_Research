@@ -1,0 +1,36 @@
+Form Type	Reasoning Q1	Reasoning Q2	Reasoning Q3	Reasoning Q4	Reasoning Q5
+HA vs HB	-1 less information	-1 less information	"-1 less "","""	-1 no use of alternate units	-1 explains abreviations
+HA vs HB	-1 Better grammar	-1 -	-1 -	-1 -	-1 -
+HA vs HB	-1 refers to figure	-1 -	-1 -	-1 -	-1 -
+HA vs HB	-1 Better grammar	-1 -	-1 ---	-1 -	-1 -
+HA vs HB	-1 Grammar	-1 -	-1 short sentences	-1 -	"-1 feels less ""reportery"""
+HA vs HB	-1 use of casual words	-1 bad grammar, informal	-1 ---	-1 use of alternate units	-1 less concise
+HA vs HB	-1 Only uses necessary words	-1 more naturally written	-1 more naturally written	-1 less stats	-1 more naturally written
+MC vs HA	0 less mistakes	0 emotion	0 not robotic	"0 too many ""()"""	"0 ""its obvious"""
+MC vs HA	1 more details	1 judgemental	1 -	1 -	0 -
+MC vs HA	0 -	-1 -	1 -	-1 -	1 -
+MC vs HA	1 -	1 -	0 -	0 -	0 -
+MC vs HA	"1 ""figure"""	1 small details	1 less details	0 more detail	0 less details
+MC vs HA	1 less typos	0 better phrasing	1 better grammar	1 -	1 -
+MC vs HA	0 -	0 -	0 -	0 -	0 -
+MO vs HA	0 shorter	0 shorter	0 shorter	0 shorter	0 relevant
+MO vs HA	1 emotion	1 emotion	0 less detail	0 less detail	1 emotion
+MO vs HA	0 concise	-1 -	0 concise	-1 -	0 concise
+MO vs HA	1 no grammar errors	1 long sentences	1 long sentences	1 short sentences	1 short sentences
+MO vs HA	1 Not like Chat GPT, short	1 -	1 shorter	1 -	1 -
+MO vs HA	1 grammar	0 -	1 -	0 -	1 -
+MO vs HA	-1 -	1 more interesting	1 more emotion	-1 -	1 less stats
+MC vs HB	0 -	1 -	1 -	1 -	1 -
+MC vs HB	0 descriptive wording	0 emotion	0 descriptive wording	0 more info	0 explains abbreviation
+MC vs HB	0 typo	-1 -	0 details	-1 -	0 less facts
+MC vs HB	1 -	1 -	1 -	1 -	1 -
+MC vs HB	1 less relevant	0 not just stats	1 mentions birthdays	1 less relevant	0 -
+MC vs HB	1 details	1 use of quotes	1 phrases	0 phrases	0 long lists
+MC vs HB	0 less stats	0 opinions	1 not much detail	1 simpler information	1 simple information
+MO vs HB	1 details	-1 -	1 detail	-1 -	"0 use of ""()"" for context"
+MO vs HB	0 less facts	-1 -	1 -	-1 -	1 -
+MO vs HB	0 -	0 -	1 -	1 -	0 -
+MO vs HB	0 more concise	-1 -	0 -	-1 -	1 -
+MO vs HB	1 off topic	0 seems human	0 simple language	"0 no space before ""."""	"1 no space before ""."", no run ons"
+MO vs HB	0 other was too uniform	1 emotion	1 emotion	0 emotion	0 emotion
+MO vs HB	0 -	1 -	0 -	0 -	1 -
